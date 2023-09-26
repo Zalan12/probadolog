@@ -1,0 +1,14 @@
+body{background-color: blue;}
+a{text-align: center;
+display: block;
+block-size: auto;
+padding: 2px;
+}
+#aaaa{float: right;
+display: block;
+margin-left:auto;
+margin-right: auto;
+width: 37%;}
+#bbbb{float: left;
+    display: block;
+}
